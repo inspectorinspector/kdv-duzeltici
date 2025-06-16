@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KDV Beyanname Düzeltme Aracı</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>KDV Beyanname Düzeltme Aracı</h1>
+        
+        <div id="initial-input-container">
+             <p>Lütfen GİB'den kopyaladığınız <strong>ilk yıla ait</strong> yıllık beyanname verilerini aşağıdaki kutuya yapıştırın ve "Veriyi İşle" butonuna tıklayın.</p>
+            <textarea id="dataInput" placeholder="Buraya yapıştırın..."></textarea>
+            <button id="processBtn">Veriyi İşle</button>
+        </div>
+
+        <div id="multi-year-container" style="display: none;">
+            <div id="tabs-container">
+                <!-- Dinamik olarak sekmeler buraya eklenecek -->
+                <button id="add-year-btn" class="add-tab-btn">+ Yıl Ekle</button>
+            </div>
+            <div id="tab-content-container">
+                <!-- Dinamik olarak sekme içerikleri buraya eklenecek -->
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 

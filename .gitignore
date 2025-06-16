@@ -1,0 +1,25 @@
+# Geçici dosyalar
+*.tmp
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE/editor ayarları
+.vscode/
+.idea/
+
+# Node.js modülleri (ileride eklenirse)
+node_modules/
+
+# Derleme/çıktı klasörleri
+/dist/
+/build/
+
+# Windows için
+Desktop.ini
+
+# Kişisel ayar dosyaları
+*.swp
+*.swo 
