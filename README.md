@@ -11,4 +11,4 @@ Yıllık KDV beyannamesi verilerini yapıştırarak kolayca düzeltme ve analiz 
 Birden fazla yıl için veri ekleyebilir, yıllar arası devreden KDV'yi otomatik takip edebilirsiniz. 
 
 #TODO
-- Yarım yıl beyanname ekleme sistemi eklenecek.
+- Birden fazla vergi dairesine verilmiş beyannamelerin merge edilmesi eklenecek.
