@@ -10,5 +10,8 @@ Yıllık KDV beyannamesi verilerini yapıştırarak kolayca düzeltme ve analiz 
 
 Birden fazla yıl için veri ekleyebilir, yıllar arası devreden KDV'yi otomatik takip edebilirsiniz. 
 
+Web uygulamasına erişmek için: https://inspectorinspector.github.io/kdv-duzeltici
+
+
 #TODO
 - Birden fazla vergi dairesine verilmiş beyannamelerin merge edilmesi eklenecek.
