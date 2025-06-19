@@ -739,7 +739,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <th>BEYAN EDİLEN ÖDENECEK KDV</th>
                             <th>OLMASI GEREKEN ÖDENECEK KDV</th>
                             <th>RE'SEN TARH EDİLECEK KDV</th>
-                            <th id="vergi-cezasi-header-${year}">VERGİ ZİYAI CEZASI (${kat} Kat)</th>
+                            <th id="vergi-cezasi-header-${year}">VERGİ ZİYAI CEZASI (${kat} KAT)</th>
                         </tr>
                     </thead>
                     <tbody>
