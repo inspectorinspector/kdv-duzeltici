@@ -1,6 +1,6 @@
 # KDV Beyanname Düzeltme Aracı
 
-Bu araç, Yıllık KDV beyannamesi verilerini yapıştırarak kolayca düzeltme ve analiz yapmanızı sağlar.
+Yıllık KDV beyannamesi verilerini yapıştırarak kolayca düzeltme ve analiz yapmanızı sağlar.
 
 ## Kullanım
 1. Yıllık KDV beyannamesi verisini Vergi No satırından başlayarak tablonun sonuna kadar kopyalayın.
@@ -9,3 +9,6 @@ Bu araç, Yıllık KDV beyannamesi verilerini yapıştırarak kolayca düzeltme 
 4. Sonuç tablolarını kopyalayarak Word'e aktarabilirsiniz.
 
 Birden fazla yıl için veri ekleyebilir, yıllar arası devreden KDV'yi otomatik takip edebilirsiniz. 
+
+#TODO
+- Yarım yıl beyanname ekleme sistemi eklenecek.
